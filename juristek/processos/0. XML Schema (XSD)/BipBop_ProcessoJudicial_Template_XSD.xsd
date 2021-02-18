@@ -64,6 +64,7 @@
          <xs:attribute name="tableType" type="xs:string" />
          <xs:attribute name="tableUpload" type="xs:boolean" />
          <xs:attribute name="tableUrl" type="xs:string" />
+         <xs:attribute name="channel" type="xs:string" />
       </xs:complexType>
    </xs:element>
    <xs:element name="execution-time" type="xs:integer" />
